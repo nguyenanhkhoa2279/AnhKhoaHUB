@@ -1983,19 +1983,19 @@ LGa:AddButton({
 })
 LGa:AddButton({
 	Title = "Show Item",
-	Description = "I'm Still Fixing....",
+	Description = "",
 	Callback = function()	
 	end
 })
 LGa:AddButton({
     Title = "Open Devil Fruit Shop [ Mirage ]",
-    Description = "I'm Still Fixing....",
+    Description = "",
     Callback = function()     
     end
 })
 LGa:AddButton({
     Title = "Open Devil Fruit Shop",
-    Description = "I'm Still Fixing....",
+    Description = "",
     Callback = function()
         if World1 then
  Teleport1:CreateDropdown({
